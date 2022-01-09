@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Pjerind\source\repos\TREE HOMEWORK\TREE HOMEWORK\Source.cpp(166,15): warning C4101: 'sy': unreferenced local variable
+C:\Users\Pjerind\source\repos\TREE HOMEWORK\TREE HOMEWORK\Source.cpp(166,11): warning C4101: 'sx': unreferenced local variable
+C:\Users\Pjerind\source\repos\TREE HOMEWORK\TREE HOMEWORK\Source.cpp(166,19): warning C4101: 'sa': unreferenced local variable
+C:\Users\Pjerind\source\repos\TREE HOMEWORK\TREE HOMEWORK\Source.cpp(250,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TREE HOMEWORK.vcxproj -> C:\Users\Pjerind\source\repos\TREE HOMEWORK\Debug\TREE HOMEWORK.exe
